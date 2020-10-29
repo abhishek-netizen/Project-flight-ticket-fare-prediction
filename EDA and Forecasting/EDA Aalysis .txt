@@ -1,0 +1,45 @@
+DOM -ve val: 
+---------------
+Filtering all the Negative value of DomesticFlight.
+note:NO BLANKS PRESENT
+starting date:01-04-2018 enidng date:10-06-2019
+-TOtal Records:11355
+-MIN:-1    -MAX:-76800
+-AIR:6205 records
+-Air cancellation:4100 records
+-Air loss: 196 records
+-Hotel:140
+-Hotel cancellation:265
+-Hotel loss:4
+-oher product:9
+-other product cancellation:441
+NetFare to postive::Changing Negative NetFare to postive by multiplying -1.
+INT -ve val:
+---------------
+Filtering all the Negative value of InternationalFlight.
+starting date:19-04-2018 ending date:10-06-2019
+-TOtal Records:1018
+-MIN:-10  -MAX:-497324
+-AIR:354 records
+-Air cancellation:502 records
+-Air loss: 16 records
+-Hotel:1
+-Hotel cancellation:26
+-Hotel loss:4
+-oher product:16
+-other product cancellation:108
+NetFare to postive::Changing Negative NetFare to postive by multiplying -1.
+
+Insight:
+We just cant say hotel cancellation is more in domestic compared to international, Coz we have less records in International compared to domestic.
+& Air cancellation, air loss and Air, are independent of each other, i can say this because its not like 19-04-2018 22:22 Netfare is x amount and air cancelation for same flight same date & time cancelattion  fee is x amount, No such records for perticular flight periculardate of booking,Cancellation,loss can be seen in the data.
+we dont no cancellation fare is for the same flight or not. what i think is its not.
+
+so 
+lets filter only AIR class from ProductType.
+*DOM -ve to +ve AIR productType-count:6206
+*INT -ve to +ve AIR productType-count:354
+
+after converting -ve values of Domesric and International to +ve
+I Standardized the Netfare, and fetched for outliers.. 
+after this step i removed the outliers and tried to take average Netfares.
