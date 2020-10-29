@@ -1,0 +1,91 @@
+1]NetFare or consolidated airfare or  unpublished airfares::
+-----------------------------------------------------------
+
+Airlines have a set number of airfares per flight. The airline sells a part of these airfares to consolidators. The airline keeps the rest of the airfares to sell by themselves.
+So, 
+consolidated airfares are airfares purchased by a consolidator(wholesaler or ‘bucket shops’) from the airline.
+
+These airfares are not available online through flight booking websites and neither on the airline’s own website. You also cannot call the airline to book these flight deals.
+
+So how do you get unpublished airfares?:
+The best way to book flights is to use a travel agent. Travel agents have access to special flight booking systems called Global Distribution Systems (GDS).
+
+"The lower the net fare available to an agency, the lower the price it is able to charge retail consumers."
+
+
+Why wouldn’t the airline sell all their airfares themselves?:
+-----------------
+-it costs more time  
+-costs more money.
+
+These highly discounted fares may also be non-refundable,
+so that’s something you should check with your travel agent. By the way, the airlines themselves are not allowed to sell unpublished airfares.
+
+So, you why do you want to find consolidated airfares?:
+------------------
+They can be up 20 to 60 percent off the regular fare.
+Because you can save up to 50% off the regular full fare price on all major airlines and more! Because the airfares are unpublished.
+
+
+Who buys consolidated airfares?:
+------------------
+Although many people don’t know about consolidated airfares, anyone can buy them!
+
+Families looking to save some money on their vacation.
+
+
+People looking for last-minute deals.
+
+Business travelers.
+
+Business class travelers.
+
+For Domestic:
+-------------
+The cheapest month to fly in the country is "February", when consumers save about 18 per cent on airfare, while booking 22 weeks in advance usually results in around 15 per cent savings, a recent study said.
+The rates offered by airlines keep varying. "Monday" morning flights to major cities are costly. This is because of the heavy rush of business travellers at the start of the work week. Similarly, 
+there is heavy outbound rush from cities on "Friday" evenings and this pushes up the rates. 
+Leisure travellers can avoid this rush and save money.
+Book tickets on "Tuesdays and Thursdays" as they are usually cheaper on these two days of the week.
+
+Here are seven insider secrets to booking cheap flights:
+Book the flight seven weeks in advance.
+Buy at the best time: Tuesdays at 3 p.m. EST.
+Fly on the cheapest days, which are Tuesday, Wednesday and Saturday.
+
+
+
+For International:
+--------------
+off-peak season: Jan 15 to May 30 & Sep-10 to Nov-1
+shoulder season: Aug 5 to Aug 30, Nov-10 to Dec-10,Dec-28 to Jan 30
+Peak season: June 9 to July 28, Dec 1 to Dec 27
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2]ProductType:
+Air Cancellation:
+For any Airline company there is airline fee for cancellation of booking. It is approximately Rs.2250 per passenger per sector for most of the company, if booking is cancelled before 2 hours of scheduled departure.
+There is convenience fee charged by the various online broker like yatra, makmuytrip, cleartirp etc also. It vary from 250 to 350 per passenger by various broker.
+Total cancellation charge = Airline fee + convenience fee (if booked via any broker)
+Hotel cancellation:
+Standard Rate:
+The cancellation is free of charge 7 days prior to the date of arrival, after this time  we charge you 90% the room rate as cancellation fee,  if we could not sell the room more.
+Non Refundable Rate:
+For the non refundable bookings are no cancellation or changes possible. In case of a cancellation, 90% of the total amount will be charged as cancellation fee.
+During the FAIRS we have special cancellation policy:
+Free of charge up to 8 weeks perior the date of arrival ( Medica, Drupa  16 weeks), after this time we'll charge 90% the room rate if we could not sell the room.
+What is a Debit Note?
+Under the GST regime, a Debit Note is a kind of commercial instrument that is issued either by the purchaser to the supplier while returning Goods received on credit; OR, by the seller to the purchaser informing about the debt obligations/funds currently due/upcoming invoice. It contains all the essential details and the valid reason behind the same.
+Air debit note:
+An agency debit memo (ADM) is a notice sent, normally by an airline to a travel agent, requiring the recipient to pay a sum of money to the sender. A frequent reason for issue of an ADM is where an air travel ticket has been issued and its rules have not been fully complied with, such as where the fare rules require tickets to be issued within three days of creating the PNR or reservation, and the ticket was issued on the fifth day.
+Other reasons can include:
+- Holding a seat on a flight, even after the airline has cancelled your space, and not removing it before the aircraft departs.
+- "Origin and Destination abuse": i.e. On a flight from Sydney to London that goes through Dubai, holding in space in the lowest fare class from Sydney to Dubai, and holding in space in the lowest fare class from Dubai to London, instead of looking at the available fare levels for the entire single journey length.
+- Booking additional sectors within an already ticketed PNR (especially the case with British Airways).
+- Booking a separate, short, unrelated flight at the end of a large itinerary, causing the GDS to price the fare with a notably lower fuel surcharge.
+- Rebooking and ticket reissue not completed at the same time, or within a set time frame.
+
+
+TAKE-AWAY:
+consolidated fare is Non-Refundable {ProductType$refund is null}
+consolidated fare apply more on International..  {Itenery$international}
+International flights passenger they may book hotels{ProductType$hotelcancellation}
