@@ -1,4 +1,5 @@
 # Project-flight-ticket-fare-prediction
-https://air-pred-model.herokuapp.com/
 
-[![deploy](Screenshot.jpeg)](https://card-holder.herokuapp.com/)
+To see deployment click on below image:
+
+[![deploy](Screenshot(96).png)](https://card-holder.herokuapp.com/)
